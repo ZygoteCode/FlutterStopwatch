@@ -133,7 +133,7 @@ class _MyHomePageState extends State<MyHomePage> {
           IconButton(
             icon: LineIcon.github(),
             onPressed: () {
-              launchUrl(Uri.parse('https://github.com/GabryB03/'));
+              launchUrl(Uri.parse('https://github.com/ZygoteCode/'));
             },
             color: Colors.white,
           ),
