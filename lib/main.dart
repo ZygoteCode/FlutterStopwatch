@@ -234,7 +234,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Padding(
               padding: EdgeInsets.all(16.0),
               child: Text(
-                italian ? 'Realizzato da Gabriele Bologna, la sua prima applicazione Android per dispositivi mobili in assoluto.' : 'Realized by Gabriele Bologna, his first Android application for mobile devices in his life.',
+                italian ? 'Realizzato da ZygoteCode, la sua prima applicazione Android per dispositivi mobili in assoluto.' : 'Realized by ZygoteCode, his first Android application for mobile devices in his life.',
                 style: GoogleFonts.lato(
                   textStyle: TextStyle(
                     fontSize: 14,
